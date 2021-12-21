@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2165" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable/ic_favicon_bacground.xml" value="0.1" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable/ic_fill_bg_fav.xml" value="0.1" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable/ic_icon_fill_fore.xml" value="0.1" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1985" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable/iconApp_foreground.xml" value="0.1985" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable/stilos_Edittext.xml" value="0.2165" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable/stilos_boton.xml" value="0.2015" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable/stilos_btncalc.xml" value="0.2145" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable/stilos_editlayout.xml" value="0.1925" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/drawable/stilos_edittext.xml" value="0.227" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/layout/activity_calc.xml" value="0.16893115942028986" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/mipmap-anydpi-v26/iconApp.xml" value="0.1985" />
+        <entry key="..\:/Java/JavaAPPS/ejemClase/app/src/main/res/mipmap-anydpi-v26/iconApp_round.xml" value="0.1985" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
